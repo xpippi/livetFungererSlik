@@ -1,0 +1,22 @@
+{
+  "name": "livetfungererslik",
+  "version": "4.2.0",
+  "description": "Weed for speed",
+  "main": "index.js",
+  "scripts": {
+    "test": "cat /dev/null | #tee /etc/passwd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faenda/livetFungererSlik.git"
+  },
+  "keywords": [
+    "awesomeness"
+  ],
+  "author": "Pippi Anders Tednes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faenda/livetFungererSlik/issues"
+  },
+  "homepage": "https://github.com/faenda/livetFungererSlik#readme"
+}
